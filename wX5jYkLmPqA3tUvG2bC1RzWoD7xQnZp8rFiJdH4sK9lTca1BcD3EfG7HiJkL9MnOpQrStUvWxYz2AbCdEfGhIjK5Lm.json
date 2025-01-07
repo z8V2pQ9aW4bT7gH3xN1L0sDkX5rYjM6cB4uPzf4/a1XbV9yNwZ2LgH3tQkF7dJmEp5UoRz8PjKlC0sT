@@ -173,6 +173,13 @@
       "discord_webhook_url": "end",
       "mac_address": "end",
       "end_date": "end"
+    },
+    {
+      "user_name": "DeathNote",
+      "discord_user": "gmev",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1326250281763078206/7VsA-VDU4Msl3UApXp61Dvq2tx_4MsQPLB3Kf1-vidXHJ65fFcQ9kmqxsb63gzirqOLd",
+      "mac_address": "None",
+      "end_date": "2035-01-07 18:05:03"
     }
   ]
 }
