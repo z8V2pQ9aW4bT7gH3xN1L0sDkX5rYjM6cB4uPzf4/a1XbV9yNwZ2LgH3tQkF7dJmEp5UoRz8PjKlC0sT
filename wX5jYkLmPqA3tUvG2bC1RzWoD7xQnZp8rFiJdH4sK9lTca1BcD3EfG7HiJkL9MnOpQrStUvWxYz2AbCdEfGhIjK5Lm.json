@@ -168,13 +168,6 @@
       "end_date": "Free Subscribe users"
     },
     {
-      "user_name": "end",
-      "discord_user": "end",
-      "discord_webhook_url": "end",
-      "mac_address": "end",
-      "end_date": "end"
-    },
-    {
       "user_name": "DeathNote",
       "discord_user": "gmev",
       "discord_webhook_url": "https://discord.com/api/webhooks/1326250281763078206/7VsA-VDU4Msl3UApXp61Dvq2tx_4MsQPLB3Kf1-vidXHJ65fFcQ9kmqxsb63gzirqOLd",
