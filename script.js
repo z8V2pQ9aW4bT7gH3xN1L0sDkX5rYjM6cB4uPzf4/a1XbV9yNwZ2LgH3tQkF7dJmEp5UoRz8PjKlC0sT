@@ -1,21 +1,18 @@
-// Function to fetch data from data.json file on GitHub and display it
-async function loadUsers() {
-  const response = await fetch('data.json');
-  const data = await response.json();
-
+// Function to load users from localStorage
+function loadUsers() {
+  const users = JSON.parse(localStorage.getItem('users')) || [];
   const userList = document.getElementById('user-list');
-  userList.innerHTML = '';  // Clear any existing users
+  userList.innerHTML = ''; // Clear the current list
 
-  // Display each user in the user list
-  data.users.forEach(user => {
+  users.forEach(user => {
     const listItem = document.createElement('li');
     listItem.textContent = `${user.user_name} - ${user.end_date}`;
     userList.appendChild(listItem);
   });
 }
 
-// Function to add a new user to the JSON data
-document.getElementById('user-form').addEventListener('submit', async function (event) {
+// Function to add a new user
+document.getElementById('user-form').addEventListener('submit', function (event) {
   event.preventDefault();
 
   const newUser = {
@@ -26,17 +23,41 @@ document.getElementById('user-form').addEventListener('submit', async function (
     end_date: document.getElementById('end_date').value
   };
 
-  // Fetch current users from the JSON
-  const response = await fetch('data.json');
-  const data = await response.json();
+  // Fetch current users from localStorage
+  const users = JSON.parse(localStorage.getItem('users')) || [];
 
-  // Add new user to the users array
-  data.users.push(newUser);
+  // Add the new user to the list
+  users.push(newUser);
 
-  // Save updated users back to the JSON file (NOTE: this won't work on GitHub Pages as you can't update files via the browser)
+  // Save the updated list back to localStorage
+  localStorage.setItem('users', JSON.stringify(users));
 
-  alert('New user added!');
-  loadUsers(); // Reload the list to include the new user
+  // Reload the list to include the new user
+  loadUsers();
+
+  // Reset the form after submission
+  document.getElementById('user-form').reset();
+});
+
+// Function to update an existing user's end date
+document.getElementById('update-form').addEventListener('submit', function (event) {
+  event.preventDefault();
+
+  const userNameToUpdate = document.getElementById('update_user_name').value;
+  const newEndDate = document.getElementById('update_end_date').value;
+
+  // Fetch current users from localStorage
+  const users = JSON.parse(localStorage.getItem('users')) || [];
+
+  const userIndex = users.findIndex(user => user.user_name === userNameToUpdate);
+
+  if (userIndex !== -1) {
+    users[userIndex].end_date = newEndDate;
+    localStorage.setItem('users', JSON.stringify(users));
+    loadUsers(); // Reload the user list
+  } else {
+    alert('User not found!');
+  }
 });
 
 // Load users when the page is loaded
