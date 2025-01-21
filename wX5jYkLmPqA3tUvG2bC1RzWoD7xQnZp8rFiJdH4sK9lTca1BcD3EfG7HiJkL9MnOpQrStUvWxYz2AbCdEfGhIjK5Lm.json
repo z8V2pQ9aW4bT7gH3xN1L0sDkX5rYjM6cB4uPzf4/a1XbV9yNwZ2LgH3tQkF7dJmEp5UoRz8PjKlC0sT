@@ -5,6 +5,12 @@
       "forceupdate": "1.2.1"
     }
   ],
+  "PHversion": [
+    {
+      "update": "1.0.0",
+      "forceupdate": "1.0.0"
+    }
+  ],
   "users": [
     {
       "user_name": "Boold",
