@@ -2,13 +2,15 @@
   "version": [
     {
       "update": "1.2.1",
-      "forceupdate": "1.2.1"
+      "forceupdate": "1.2.1",
+      "update_link": "https://www.dropbox.com"
     }
   ],
   "PHversion": [
     {
       "update": "0.1.0",
-      "forceupdate": "0.1.0"
+      "forceupdate": "0.1.0",
+      "update_link": "https://www.dropbox.com"
     }
   ],
   "users": [
