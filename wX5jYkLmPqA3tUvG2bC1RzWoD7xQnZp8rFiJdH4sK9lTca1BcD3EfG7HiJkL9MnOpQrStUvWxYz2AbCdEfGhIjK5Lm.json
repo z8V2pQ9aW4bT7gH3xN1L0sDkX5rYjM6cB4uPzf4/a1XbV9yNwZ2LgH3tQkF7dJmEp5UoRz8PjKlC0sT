@@ -403,6 +403,16 @@
       "mac_address": "g1PLXx6GAYZquXfgeaU4YaiJVCTDxDafF+Fua9w6xH5CkGkzCbgxpkMQ1zkH8M4e",
       "sub_plan": "Premium",
       "end_date": "2025-01-29 16:12:51"
+    },
+    {
+      "user_name": "Boold",
+      "discord_user": "1_bb",
+      "discord_user_id": "581617388886425601",
+      "user_img": "https://cdn.discordapp.com/avatars/581617388886425601/9b91be5dd634f376cbddc30be0ae5073.webp?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1334292372149768255/RDOVEUG2aKuXGMUNuxMU_OHPf3pUooS0BCmuDkYFACpnA7ZZYfIMsmZWTDa9GW-R5bdl",
+      "mac_address": "MueKjHIAN6Pp7TKd7wKYddVBvgdNPFiKN4ZGDrGiLo9DoOCkyvCkbpjnoIlObsAn",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-01-31 00:41:29"
     }
   ]
 }
