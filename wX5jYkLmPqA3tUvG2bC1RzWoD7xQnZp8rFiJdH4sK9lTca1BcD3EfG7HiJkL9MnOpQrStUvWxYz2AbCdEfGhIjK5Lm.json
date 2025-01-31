@@ -413,6 +413,16 @@
       "mac_address": "g1PLXx6GAYZquXfgeaU4YaiJVCTDxDafF+Fua9w6xH5CkGkzCbgxpkMQ1zkH8M4e",
       "sub_plan": "Premium",
       "end_date": "2025-01-29 16:12:51"
+    },
+    {
+      "user_name": "Boogiman",
+      "discord_user": "skopeng",
+      "discord_user_id": "337257274764427264",
+      "user_img": "https://cdn.discordapp.com/avatars/337257274764427264/6dee4c9445117787883230d9cd016218.webp?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1335018925217546403/5OPSs7BfF4r4lYCiIk66l7KkjA6zjfU92pOY2BsRbqPFxw4pUNXP8UoAFHnGqey8lsJZ",
+      "mac_address": "Ddi2vtBYaDpZ4VQwh7EJFEbgdzb8ObKZsu39Y/9d8dYO03zpXl0Kl9H1z9wCI5cA",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-02 00:48:32"
     }
   ]
 }
