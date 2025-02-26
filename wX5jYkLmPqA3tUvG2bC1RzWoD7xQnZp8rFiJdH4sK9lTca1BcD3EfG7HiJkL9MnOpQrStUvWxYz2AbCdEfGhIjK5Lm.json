@@ -723,6 +723,16 @@
       "mac_address": "+a1xifR53rpfLJrT8gIb4Auc1Lyhbbo5eY6u878ZIW9jXtSBGGOtu7lmbSWiygLqCssV1GrG7kUlRrDDiJmAxLGCmqYT2uGn+pXDRTgyT5wIswOP487lwi8D0IeqBlIc0YcHHCFk0SPUBzP74ojqVcyjgTmaMmRDhG3RgANtW/I=",
       "sub_plan": "Premium",
       "end_date": "2025-03-29 21:59:13"
+    },
+    {
+      "user_name": "Bugimen",
+      "discord_user": "bugimen2",
+      "discord_user_id": "375712080403365888",
+      "user_img": "https://cdn.discordapp.com/avatars/375712080403365888/7c0a19f390ccbda66302340272866e52.webp?size=1024",
+      "discord_webhook_url": "https://discord.com/api/webhooks/1344433536769331290/di19GoAEgKeq0ArmWpGS1p5XZwiowyMrhXvvdM5kNXcUSJnFQKgRcDkIOsXTI2H0fWBH",
+      "mac_address": "SZc1jf+EXk3EC2vYLDpKPI+KCI0v6ob2RoCfn53rtqJ98CzV2yOfhrSddLvip9VAKGFlqBli28+kqzwdgN03Ruy9GWTJXSIoArQnFHk4+OI4P1VzVwATQaD0L6YU0BnK5025sJ5OPm4B/VS67iZS5QAr7WeSRpagySONn1wofMo=",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-02-28 00:18:51"
     }
   ]
 }
