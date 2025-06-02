@@ -1093,6 +1093,16 @@
       "mac_address": "NSY/oJU/ADM9e2ivSPh0LUsJd5lqJI6sTHqtkIyAAOf2jeA9VgMiHgUIiKILnJLe1XWlpnM/EuO9Yd60iH80nwVD4g/KfO7xpU/sFUpk6DABv2odSRY4CbB4Ffkdvz1ob4DMlF0H3cTvhDp1Jkd6THTrnDxZn+dusGGkRk/t2b8=",
       "sub_plan": "Premium",
       "end_date": "2026-01-02 22:25:10"
+    },
+    {
+      "user_name": "line",
+      "discord_user": "zealous_puppy_26532",
+      "discord_user_id": "425001332609384450",
+      "user_img": "https://cdn.discordapp.com/avatars/425001332609384450/b6ab3172287e11eb212aa42c624d2c27.webp?size=1024",
+      "discord_webhook_url": "none",
+      "mac_address": "721PhEhXAfZfHZn4V+2H68vQkHbnpdmQrC5cY0/q5v+drt6YqitMAHQ2SArStoMNSToM+6hH3rGUXnXp2D9DMCUj676v6ufEW8kA+/3I9Z0JrhpARB0sirtepnM+OrI5LWdZvSZBIp9iiDEHi4wd/r1kDbl5AZ3O/M2LWTP5dT8=",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-06-04 00:23:01"
     }
   ]
 }
