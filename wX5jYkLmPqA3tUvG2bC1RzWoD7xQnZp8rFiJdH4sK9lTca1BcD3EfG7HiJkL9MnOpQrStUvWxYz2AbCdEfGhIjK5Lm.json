@@ -1185,16 +1185,6 @@
       "end_date": "2025-06-12 16:35:26"
     },
     {
-      "user_name": "tes",
-      "discord_user": "x._i",
-      "discord_user_id": "752226096715399288",
-      "user_img": "https://cdn.discordapp.com/avatars/752226096715399288/119fdd213152dad3219bcc0fde2ffa98.webp?size=1024",
-      "discord_webhook_url": "none",
-      "mac_address": "gafdga",
-      "sub_plan": "Premium",
-      "end_date": "2026-07-31 14:16:24"
-    },
-    {
       "user_name": "Roofy",
       "discord_user": "ashrafgamalsobh",
       "discord_user_id": "274550377465118721",
@@ -1203,16 +1193,6 @@
       "mac_address": "zr4KuaYHYz2TtM/gLzggJc1ebOfg+PNeMY44oj6mMYCdwapJcBXNV6/8Ojxvu+I/o2XERG3+VShZFSRXbdTTXreIT6Udya2V66H05jrJVDcrqEXLFSaFk77bvC8IuxMXjzDBhug7o2KOnSaRhH1RTOibx7orhpGGFmwjG1gRa1U=",
       "sub_plan": "Premium",
       "end_date": "2025-07-12 16:39:45"
-    },
-    {
-      "user_name": "Rabea",
-      "discord_user": "ProBot ✨",
-      "discord_user_id": "282859044593598464",
-      "user_img": "https://cdn.discordapp.com/avatars/282859044593598464/156a0d2872579f1ffcaa5d2127239bfd.webp?size=1024",
-      "discord_webhook_url": "none",
-      "mac_address": "s",
-      "sub_plan": "Free Trial",
-      "end_date": "2025-06-12 21:00:42"
     }
   ]
 }
