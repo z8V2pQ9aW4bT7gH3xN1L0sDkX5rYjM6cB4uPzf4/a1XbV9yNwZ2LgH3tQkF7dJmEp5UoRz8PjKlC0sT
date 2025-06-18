@@ -1,9 +1,9 @@
 {
   "version": [
     {
-      "update": "0.0.3",
-      "forceupdate": "0.0.3",
-      "update_link": "https://cdn.discordapp.com/attachments/1296164406979199017/1384571402337783878/CroSoS_Bugs.exe?ex=6852ea1a&is=6851989a&hm=43fb66d0eee2bd9958caa040d710b8020f277d0aaabda7cc0c68498984f7de90&"
+      "update": "0.0.4",
+      "forceupdate": "0.0.4",
+      "update_link": "https://cdn.discordapp.com/attachments/1296164406979199017/1384730052889153606/CroSoS_Bugs.exe?ex=68537ddb&is=68522c5b&hm=09480b59d1d9542c928badf25f648ac85c3b5c3d83802e6f387f64150e55e0fc&"
     }
   ],
   "users": [
@@ -243,7 +243,7 @@
       "discord_user_id": "581617388886425601",
       "user_img": "https://cdn.discordapp.com/avatars/581617388886425601/897cc3b91b30ab7876431bb3f4a88fc4.webp?size=1024",
       "discord_webhook_url": "none",
-      "mac_address": "ty44",
+      "mac_address": "ItA7mEAUWsaxVE5rsyLZV4MG2IcBIxlO4M0dT/y9Q5s+q8+f6HBE/cb1q2rA/ZB5t9S8V/UXX18pjWsazSZ+lz2O4dzwChcRhwUSiSmhJgc6/SnwIEGqzhdjHjWNYBM/3vCdpP+YOcbLhGOrwdjeqpXqcNxsPU0h3afKL18a5ZLKXiMD8T/F1tounO05IxwHYjUy+6nfyxtuMoljnYXasw==",
       "sub_plan": "Lifetime",
       "end_date": "2045-07-13 00:43:54"
     },
