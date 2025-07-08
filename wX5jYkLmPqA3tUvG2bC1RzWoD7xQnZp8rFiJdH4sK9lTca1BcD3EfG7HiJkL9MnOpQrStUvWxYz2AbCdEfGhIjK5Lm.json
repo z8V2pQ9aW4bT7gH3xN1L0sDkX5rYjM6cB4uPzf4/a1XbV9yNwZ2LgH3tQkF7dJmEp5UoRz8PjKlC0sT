@@ -1493,6 +1493,16 @@
       "mac_address": "bEtMw1qid8PGA/TXxAcPktjfOKnhVA5niQMj8HFuZ+/ICqqIC33ZOHFTa1V0dUrHH1nW2D/sq1MDWkjHI0RICiDsKjq8v9b19587l5ouFRHdTlqOaw1kYAX3G6ESq949WnxVjJIS9Q7PnLmrrWzfn3rxQxXD179m8MLRMYhzRiAi+DFSHjOh3RGoaVwtPAci66UNjBoXyrEXsaqwXvatZw==",
       "sub_plan": "Premium",
       "end_date": "2025-10-06 11:10:09"
+    },
+    {
+      "user_name": "skeler",
+      "discord_user": "skeler892",
+      "discord_user_id": "1386109655729574058",
+      "user_img": "https://cdn.discordapp.com/avatars/1386109655729574058/94464f123c3b0e6763ed15a39ac024d1.webp?size=1024",
+      "discord_webhook_url": "none",
+      "mac_address": "AaKl19gPou6kb/JqITQUqiLrmcJhtafewH7Cu0A4ZzHJb42c1ws5daiMvx+8iHCShdgB0MkqKLAyZsD0IfcgXvMMkRywUCiQIO3jmC0vbJeQyQ3Yb1NB9kRYN34DkZ3IsrVH4p0M+oZJv4X40Llf7e/Lm7EhtJYfoDovbY0XoMY=",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-07-09 12:00:33"
     }
   ]
 }
