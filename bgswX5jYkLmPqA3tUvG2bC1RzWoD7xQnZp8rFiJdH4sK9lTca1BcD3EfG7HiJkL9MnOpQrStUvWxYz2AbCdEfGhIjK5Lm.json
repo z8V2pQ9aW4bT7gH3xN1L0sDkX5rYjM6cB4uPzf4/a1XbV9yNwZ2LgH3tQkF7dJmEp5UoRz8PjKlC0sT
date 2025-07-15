@@ -516,6 +516,16 @@
       "mac_address": "U1geBkzjUAr4pndv8t3xzAqWG5tnl/mNFDytj9zLOuiO6jEPYBKIYV3+UcpxQHli4/f+0SNoXQhAyloFEy6CPkIu+WnAoP//mAP0B/QgIeEQWE1T5qT0oxWt+BNYJ4IhezjiC/H3na4NagXOptIljRpTczAhHdnUSOt+biMCvsHhzrP7MYH3gMXUdb4wBGxDgwbYhwEjGU7gzR1P/L1Dmw==",
       "sub_plan": "Lifetime",
       "end_date": "2035-07-12 23:37:05"
+    },
+    {
+      "user_name": "Tech",
+      "discord_user": "doom769",
+      "discord_user_id": "571769877522546727",
+      "user_img": "https://cdn.discordapp.com/avatars/571769877522546727/d62e281561c141503ca7f1d29dded0a8.webp?size=1024",
+      "discord_webhook_url": "none",
+      "mac_address": "gibi0jk/WNi/9HSZrHFpiyEgRr1p+BWRjeLmapnj2GDc/ocCzbDMJOP8JfLRj2OYNvhmqD5jv1F4GIGLv0S9TbTz9caUbcRfhtW54bwj1WRUuY4qY9Siy+qfJT6DrACyUrRV8zkigFWHVCwnk/+FCEQoRRlXcMVnT+DrsUfL5y8=",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-07-15 21:31:49"
     }
   ]
 }
