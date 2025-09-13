@@ -1086,6 +1086,16 @@
       "mac_address": "zr4KuaYHYz2TtM/gLzggJWrOXEAbZGvTz6JA6orRFmWFJcjhCnPPh1/787Koo0dLnuBUMx91tRtMVTlBOHX8KoC8Bjwlkh7mo7D/kFP+H8lt64a0J2I2qxy4LtTg1SWqBdMNiWFyxafZDoopmUgdGd0RqEBnegL6wRh7MixhFGA=",
       "sub_plan": "Lifetime",
       "end_date": "2035-09-11 03:17:45"
+    },
+    {
+      "user_name": "Ben_tarraf",
+      "discord_user": "ben_tarraf",
+      "discord_user_id": "1241436886170472590",
+      "user_img": "https://cdn.discordapp.com/avatars/1241436886170472590/8a61eb7d5d8e42bf0561b5d0ffe3e29a.webp?size=1024",
+      "discord_webhook_url": "none",
+      "mac_address": "+tRVO1pRHvw86AhIuREkZiU32Q5HYQ29RSqoIF0JjfipXlKPZlH7BXMQ+Fccj2WhFhX+tdzCeY6I5CYrAPqSVTKJ4F5u31KcQJRWFhpf7eIqcGk7I8gjEX5LFR/FqoQvVNU53G7tqHxblWaUSw16wscgSS3gGCKV26/Bfz14AmHjPMnZ22n2QScQUNFlM6LQ",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-09-14 00:09:16"
     }
   ]
 }
