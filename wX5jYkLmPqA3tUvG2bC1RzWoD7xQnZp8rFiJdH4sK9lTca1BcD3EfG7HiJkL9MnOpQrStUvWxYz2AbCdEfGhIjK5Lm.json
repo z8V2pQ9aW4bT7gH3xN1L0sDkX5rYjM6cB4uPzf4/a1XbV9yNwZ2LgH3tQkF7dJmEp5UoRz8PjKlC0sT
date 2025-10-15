@@ -1983,6 +1983,16 @@
       "mac_address": "BONSSUGIny0PIx4g1As+ze9TH5PYJ7IqE3SdE0vsw8NylP7h8F8Zi2Hz9z+KK7QQ9Rv0doVXaBmYtIuyA6/axjXFjg9WtM1r1cz9H/mEnPUl3Na+rcqBxblnfNlN0va18h0o2DFuZ9AG0BzqaNF6FWJ0wqqZrGLS+MuI0noNPvuNqcUMIVFPJofjVd+jfexB",
       "sub_plan": "Premium",
       "end_date": "2026-01-13 11:12:51"
+    },
+    {
+      "user_name": "Sprayer",
+      "discord_user": ".sprayer.derallerechte",
+      "discord_user_id": "323549767286128651",
+      "user_img": "https://cdn.discordapp.com/avatars/323549767286128651/6c856d7a56c1b1f78b67d42eeb6ca6d8.webp?size=1024",
+      "discord_webhook_url": "none",
+      "mac_address": "zr4KuaYHYz2TtM/gLzggJRMyhgZRlwNW6YSxBbketj5zE5k6oaQKRWhk6z61YvJHZQgcQ47JHNR/pVAyvumXMMOWaQz9QC7WyrNlhX6bOg+mCVqyVl8U18JAbF21mp6mcEeGQCGzwYlxQXz4BcVO+MEqcMksWChsTr0/umOxLaXT5kKB7vHdFxR1MPWSiclkYiyafqJuiFpsnraDeCbsnJ8qC0pcJ52QN1fvpOFrFRI=",
+      "sub_plan": "Free Trial",
+      "end_date": "2025-10-16 20:32:36"
     }
   ]
 }
