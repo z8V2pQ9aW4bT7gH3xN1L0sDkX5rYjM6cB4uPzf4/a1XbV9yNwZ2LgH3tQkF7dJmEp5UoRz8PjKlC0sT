@@ -1,6 +1,11 @@
 {
   "app_names": [
     "Discord",
+    "Chrome",
+    "Brave",
+    "Firefox",
+    "Explorer",
+    "MSIAfterburner",
     "Task Manager",
     "Microsoft Edge"
   ]
