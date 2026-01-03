@@ -2183,6 +2183,16 @@
       "mac_address": "uAw/nBx1X8YlUZDNhR+LqFz/UpLQ1Khd3eB2g7f3AeulRP0SXljXcAU0BCbVl0kgSmKJGHnjkwHpTBLjMXP5B/kI5gEwJfzR8W+YKk7EopJ2wSohFuSiBg2xHFIzI0LqhcDrG+DpaMQ1Thydhcu+r3S40aQp29bRxcHH/v1VZvNPl8OwrQ+94o0R8nORDIl1QGqcDLqrmbps3oYa4dJfhQ==",
       "sub_plan": "Premium",
       "end_date": "2026-04-02 17:56:25"
+    },
+    {
+      "user_name": "Script",
+      "discord_user": "starkingoff",
+      "discord_user_id": "912098770500599860",
+      "user_img": "https://cdn.discordapp.com/avatars/912098770500599860/afb70172c392c9624640bd24e0f1e0b2.webp?size=1024",
+      "discord_webhook_url": "none",
+      "mac_address": "KyCUA1rbcRhkpmQy/WLT3thsS+yt4gwaKm0I29ijWDcyv+XyduE0zpe8bDmuUSW4xshPm1eCWW1R/iNMsFMvI1VtTxF/qpIM5B/7lK1I/vLmIJ/E3qVIWnZRfUxG1i72LoEJR6NymXWsLlkLS2megHLv0QwhvuC31J8EjS9qqIplgaHF+0dP/pob1LfLEUoF",
+      "sub_plan": "Free Trial",
+      "end_date": "2026-01-04 10:44:10"
     }
   ]
 }
