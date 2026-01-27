@@ -1926,6 +1926,16 @@
       "mac_address": "lU2dreVx5pfSdHTyp26uR8NnOTxeCObDt7cH2pmAsmW3gflOjBQx6MM/aoqsJ5vHL+YWQBt1MwnZlf1mUIeDsHQqdelWblqmwoJ+1NH1c7H/NcZvuLuSBSzc8fICfD3+b+cTFAXX48vl1zAAsk4LPxoFqokwSJ7q3d3jGiJsq0dHxGKshL6jwhO3OqXkyPnpue+EH7apU/EotgNF0XB7Bg==",
       "sub_plan": "Premium",
       "end_date": "2026-02-22 23:14:52"
+    },
+    {
+      "user_name": "andrew",
+      "discord_user": "andrewzm_",
+      "discord_user_id": "1225343498266349623",
+      "user_img": "https://cdn.discordapp.com/avatars/1225343498266349623/84d61cc96d93a5b47a8d0e13c74782c2.webp?size=1024",
+      "discord_webhook_url": "none",
+      "mac_address": "Je29uwBMge8HBU38iaQK+r/x3RLXIbsAKQ5uvlax6UbwJ0GNKBUSGl0R2ywIVQFB0CFYQ2IN1n3O/uhC4UyGxx8cVyfpWKOxCoX+UOTJfCSS+E6RM84yFgywQcSilX7MzsgFyE8xoSY7YreZLShGqxxSEcxBu/aVYoEPe+vCpeo=",
+      "sub_plan": "Free Trial",
+      "end_date": "2026-01-28 02:52:16"
     }
   ]
 }
