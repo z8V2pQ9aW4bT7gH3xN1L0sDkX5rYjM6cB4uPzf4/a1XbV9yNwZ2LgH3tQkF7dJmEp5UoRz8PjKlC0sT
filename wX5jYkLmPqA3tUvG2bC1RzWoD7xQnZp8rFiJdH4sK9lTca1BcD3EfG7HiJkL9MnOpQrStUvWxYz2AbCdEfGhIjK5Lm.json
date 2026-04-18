@@ -2473,6 +2473,16 @@
       "mac_address": "x9m9W3qU1U0rYTfDiHZMhOZm5LsaYJ9mT8X9rfgC7iPo+Jn3QnPbCTOq3xSbDq9MZv8ABg8n7hDcXUkBD0xz3QbPajscrNUUPFmZuTecT78Rm26F9o0X5/pHBwN+EPip3tPkPrYZCEVbCwZSPJSOO8PXWsDBOuKRngXC0ajXf3jNhzgjbfgHmvoVpuF8cICzUdyuwRPN50Fnp6YwMBK9Z8Q2cZO7CqG8FdMezDngXW2R+42JQ7QwiM5IEhsRQUlh",
       "sub_plan": "Premium",
       "end_date": "2026-04-24 15:35:35"
+    },
+    {
+      "user_name": "cf",
+      "discord_user": "fchen32",
+      "discord_user_id": "122777009490362369",
+      "user_img": "https://cdn.discordapp.com/avatars/122777009490362369/07e9637becb96ac4a021efc5597408dd.webp?size=1024",
+      "discord_webhook_url": "none",
+      "mac_address": "1I9te9RWADzSH96b2iDDrcKTP0Y5r92J4Wo6wX8QuHu7MnwWoSu5yNpk3P8v8K4WB+abVU9BxJdirMVD5QJ7khuphe9RmO+NoKk10zoy3f+JGET0qqSHZ0aB/kYV+15zhucz5r/5kKW16fmqio/B9CyzGOvvfXiHHj7Pbh/h4RDRTK0Cpk/SPTLfFd76/f0IlXSvCWEo+GAI1ayOR6EFyw==",
+      "sub_plan": "Free Trial",
+      "end_date": "2026-04-19 22:03:01"
     }
   ]
 }
